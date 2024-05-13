@@ -11,4 +11,6 @@ const employees = [
   },
 ];
 
-// Start coding here
+employees[0].hobbies.unshift("Watching basketball");
+console.log(employees[0]);
+console.log(employees[1]);
