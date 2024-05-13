@@ -12,4 +12,4 @@ fifthColor = colors[4]
 tenthColor = colors[9]
 
 colors[9] = tenthColor;
-console.log(blueColor, fourthColor, fifthColor, tenthColor);
+console.log(blueColor, fourthColor, fifthColor, tenthColor); 
